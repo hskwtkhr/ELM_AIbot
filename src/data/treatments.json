@@ -79,6 +79,23 @@
             ]
         },
         {
+            "category": "医療HIFU (ハイフ)",
+            "description": "超音波の熱エネルギーで肌の奥から引き締める、切らないリフトアップ治療。",
+            "url": "https://www.elm-clinic.jp/treatment/ultra_cel_qplus/",
+            "menu": [
+                {
+                    "name": "ウルトラセルQプラス (全顔)",
+                    "price": "要問い合わせ",
+                    "notes": "痛みやダウンタイムが少ない最新HIFU"
+                },
+                {
+                    "name": "リニアファーム (二重アゴ解消)",
+                    "price": "要問い合わせ",
+                    "notes": "脂肪溶解に特化したHIFU"
+                }
+            ]
+        },
+        {
             "category": "肌治療 (シミ・くすみ・毛穴)",
             "description": "レーザーや光治療を用いた肌質改善メニュー。",
             "menu": [
