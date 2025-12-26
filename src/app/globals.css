@@ -1,26 +1,43 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Brand Colors */
+  --elm-navy: #0F172A; /* Deep Navy */
+  --elm-gold: #C5A059; /* Muted Gold */
+  --elm-gold-light: #E5C585; 
+  --elm-bg-light: #FAFAFA; /* Off-white for premium feel */
+  
+  /* System Colors */
+  --background: #FFFFFF;
+  --foreground: #333333;
+  --primary: var(--elm-navy);
+  --primary-foreground: #FFFFFF;
+  --secondary: var(--elm-gold);
+  --secondary-foreground: #FFFFFF;
+  --muted: #F3F4F6;
+  --muted-foreground: #6B7280;
+  --border: #E5E7EB;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-elm-navy: var(--elm-navy);
+  --color-elm-gold: var(--elm-gold);
+  --color-elm-gold-light: var(--elm-gold-light);
+  --font-sans: var(--font-geist-sans); 
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }

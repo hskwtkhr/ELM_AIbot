@@ -1,0 +1,190 @@
+{
+    "treatments": [
+        {
+            "category": "医療アートメイク",
+            "description": "医師の管理下で行う、立体的で自然な仕上がりの医療アートメイク。2D、3D、4D技術を組み合わせたオーダーメイドデザイン。",
+            "url": "https://www.elm-clinic.jp/treatment/medicalartmake/",
+            "menu": [
+                {
+                    "name": "眉アートメイク (2回セット)",
+                    "price": "98,000円〜",
+                    "notes": "毛並みを1本1本描く4D技法などが人気"
+                },
+                {
+                    "name": "リップアートメイク (2回セット)",
+                    "price": "110,000円〜",
+                    "notes": "血色を良くし、メイクの手間を省きます"
+                },
+                {
+                    "name": "アイライン (2回セット)",
+                    "price": "60,000円〜",
+                    "notes": "目力を自然にアップ"
+                }
+            ]
+        },
+        {
+            "category": "ボトックス注射",
+            "description": "表情ジワを目立たなくする治療。アラガン社製ボトックスビスタを使用。",
+            "url": "https://www.elm-clinic.jp/treatment/botox/",
+            "menu": [
+                {
+                    "name": "眉間・目尻・額 (1箇所)",
+                    "price": "19,800円〜",
+                    "notes": "表情を作った時にできるシワに効果的"
+                },
+                {
+                    "name": "エラボトックス (小顔)",
+                    "price": "49,800円〜",
+                    "notes": "エラの筋肉を緩めて小顔効果"
+                },
+                {
+                    "name": "脇ボトックス (多汗症)",
+                    "price": "59,800円〜",
+                    "notes": "脇汗を抑える"
+                }
+            ]
+        },
+        {
+            "category": "ヒアルロン酸注射",
+            "description": "シワの溝を埋めたり、ボリュームを出してリフトアップする治療。",
+            "url": "https://www.elm-clinic.jp/treatment/hyaluron/",
+            "menu": [
+                {
+                    "name": "ほうれい線・マリオネットライン",
+                    "price": "1本 69,800円〜",
+                    "notes": "即効性があり、ダウンタイムが少ない"
+                },
+                {
+                    "name": "涙袋形成",
+                    "price": "39,800円〜",
+                    "notes": "ふっくらとした目元に"
+                },
+                {
+                    "name": "ボライトXC (肌質改善)",
+                    "price": "要問い合わせ",
+                    "notes": "肌の保水力を高める"
+                }
+            ]
+        },
+        {
+            "category": "糸リフト (スレッドリフト)",
+            "description": "特殊な糸を使用してたるみを引き上げる、切らないリフトアップ。",
+            "url": "https://www.elm-clinic.jp/treatment/thread_lift/",
+            "menu": [
+                {
+                    "name": "エルムリフト (1本)",
+                    "price": "29,800円〜",
+                    "notes": "本数によって引き上げ強度が変わります（目安4〜10本）"
+                }
+            ]
+        },
+        {
+            "category": "肌治療 (シミ・くすみ・毛穴)",
+            "description": "レーザーや光治療を用いた肌質改善メニュー。",
+            "menu": [
+                {
+                    "name": "フォトフェイシャルM22",
+                    "price": "1回 15,800円〜",
+                    "notes": "シミ、そばかす、赤ら顔に効果的",
+                    "url": "https://www.elm-clinic.jp/treatment/photofacial/"
+                },
+                {
+                    "name": "ピコレーザー (シミ取り放題)",
+                    "price": "98,000円〜",
+                    "notes": "個数制限なしでシミを除去（詳細は各院へ）",
+                    "url": "https://www.elm-clinic.jp/treatment/picolaser/"
+                },
+                {
+                    "name": "ポテンツァ (POTENZA)",
+                    "price": "要問い合わせ",
+                    "notes": "ニキビ跡、毛穴、肝斑など幅広い悩みに対応",
+                    "url": "https://www.elm-clinic.jp/treatment/potenza/"
+                },
+                {
+                    "name": "ハイドラフェイシャル",
+                    "price": "1回 14,800円〜",
+                    "notes": "毛穴の汚れを徹底洗浄",
+                    "url": "https://www.elm-clinic.jp/treatment/hydrafacial/"
+                }
+            ]
+        },
+        {
+            "category": "医療脱毛",
+            "description": "医療機関でのみ可能な高出力レーザー脱毛。",
+            "url": "https://www.elm-clinic.jp/treatment/datsumo/",
+            "menu": [
+                {
+                    "name": "全身脱毛 (顔・VIOなし・5回)",
+                    "price": "要問い合わせ",
+                    "notes": "まずは無料カウンセリングへ"
+                },
+                {
+                    "name": "ワキ脱毛 (1回)",
+                    "price": "500円〜 (キャンペーン時)",
+                    "notes": "キャンペーン等は時期によります"
+                }
+            ]
+        },
+        {
+            "category": "その他",
+            "description": "点滴療法や内服薬、ドクターズコスメなど。",
+            "menu": [
+                {
+                    "name": "白玉点滴 (グルタチオン)",
+                    "price": "5,500円〜",
+                    "notes": "美白、抗酸化作用",
+                    "url": "https://www.elm-clinic.jp/treatment/shiratama_injection/"
+                },
+                {
+                    "name": "ゼオスキン (ZO Skin Health)",
+                    "price": "製品により異なる",
+                    "notes": "医師の指導の下で使用する医療機関専売コスメ",
+                    "url": "https://www.elm-clinic.jp/treatment/zoskin/"
+                },
+                {
+                    "name": "美容内服セット",
+                    "price": "4,400円〜",
+                    "notes": "シナール、トラネキサム酸などのセット"
+                }
+            ]
+        }
+    ],
+    "clinics": [
+        {
+            "name": "表参道院",
+            "url": "https://www.elm-clinic.jp/clinic/omotesando.html"
+        },
+        {
+            "name": "麻布院",
+            "url": "https://www.elm-clinic.jp/clinic/azabu.html"
+        },
+        {
+            "name": "京都院",
+            "url": "https://www.elm-clinic.jp/clinic/kyoto.html"
+        },
+        {
+            "name": "大阪院",
+            "url": "https://www.elm-clinic.jp/clinic/osaka.html"
+        },
+        {
+            "name": "神戸院",
+            "url": "https://www.elm-clinic.jp/clinic/kobe.html"
+        },
+        {
+            "name": "広島院",
+            "url": "https://www.elm-clinic.jp/clinic/hiroshima.html"
+        },
+        {
+            "name": "岡山院",
+            "url": "https://www.elm-clinic.jp/clinic/okayama.html"
+        },
+        {
+            "name": "福岡院",
+            "url": "https://www.elm-clinic.jp/clinic/fukuoka.html"
+        },
+        {
+            "name": "熊本院",
+            "url": "https://www.elm-clinic.jp/clinic/kumamoto.html"
+        }
+    ]
+}
