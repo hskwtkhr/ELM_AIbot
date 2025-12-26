@@ -137,16 +137,46 @@
                     "url": "https://www.elm-clinic.jp/treatment/potenza/"
                 },
                 {
+                    "name": "美脚コンバイン",
+                    "price": "要問い合わせ",
+                    "notes": "脚痩せ注射",
+                    "url": "https://www.elm-clinic.jp/treatment/combineinjection/"
+                },
+                {
+                    "name": "プルリアルデンシフィア",
+                    "price": "要問い合わせ",
+                    "notes": "肌育注射。赤み・水分量改善",
+                    "url": "https://www.elm-clinic.jp/treatment/pluryal-densify/"
+                },
+                {
+                    "name": "肩こりプラセンタ注射",
+                    "price": "要問い合わせ",
+                    "notes": "肩こりのツボにプラセンタを注入",
+                    "url": "https://www.elm-clinic.jp/treatment/placenta_shoulder/"
+                },
+                {
                     "name": "ダーマペン4",
                     "price": "要問い合わせ",
                     "notes": "ニキビ跡、毛穴",
                     "url": "https://www.elm-clinic.jp/treatment/dermapen4/"
                 },
                 {
+                    "name": "アキュパルス (AcuPulse)",
+                    "price": "要問い合わせ",
+                    "notes": "フラクショナルCO2レーザー。ニキビ跡・毛穴の開きに",
+                    "url": "https://www.elm-clinic.jp/treatment/acupulse/"
+                },
+                {
                     "name": "ハイドラフェイシャル",
                     "price": "14,800円〜",
                     "notes": "毛穴洗浄、ピーリング",
                     "url": "https://www.elm-clinic.jp/treatment/hydrafacial/"
+                },
+                {
+                    "name": "クールビタミントリートメント",
+                    "price": "要問い合わせ",
+                    "notes": "ビタミンA・Cイオン導入。鎮静・保湿に",
+                    "url": "https://www.elm-clinic.jp/treatment/cool-vitamin-treatment/"
                 }
             ]
         },
