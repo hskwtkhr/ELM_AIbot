@@ -232,7 +232,92 @@
                 {
                     "name": "白玉点滴 (グルタチオン)",
                     "price": "5,500円〜",
-                    "notes": "美白、抗酸化作用"
+                    "notes": "美白、抗酸化作用",
+                    "url": "https://www.elm-clinic.jp/treatment/shiratama_injection/"
+                },
+                {
+                    "name": "高濃度ビタミンC点滴",
+                    "price": "要問い合わせ",
+                    "notes": "美肌、免疫力アップ",
+                    "url": "https://www.elm-clinic.jp/treatment/deepvitamin/"
+                },
+                {
+                    "name": "にんにく注射",
+                    "price": "要問い合わせ",
+                    "notes": "疲労回復",
+                    "url": "https://www.elm-clinic.jp/treatment/garlic_injection/"
+                },
+                {
+                    "name": "美容カクテル点滴",
+                    "price": "要問い合わせ",
+                    "notes": "美肌・疲労回復のオリジナルブレンド",
+                    "url": "https://www.elm-clinic.jp/treatment/cocktail/"
+                },
+                {
+                    "name": "NMN点滴",
+                    "price": "要問い合わせ",
+                    "notes": "若返り、エイジングケア",
+                    "url": "https://www.elm-clinic.jp/treatment/nmn_injection/"
+                },
+                {
+                    "name": "幹細胞培養上清液",
+                    "price": "要問い合わせ",
+                    "notes": "エクソソーム、組織再生",
+                    "url": "https://www.elm-clinic.jp/treatment/stem-cell-detox-concentration/"
+                },
+                {
+                    "name": "プラセンタ注射",
+                    "price": "要問い合わせ",
+                    "notes": "美肌、肩こり",
+                    "url": "https://www.elm-clinic.jp/treatment/face_placenta/"
+                },
+                {
+                    "name": "イソトレチノイン",
+                    "price": "要問い合わせ",
+                    "notes": "重症ニキビ治療薬",
+                    "url": "https://www.elm-clinic.jp/treatment/isotretinoin/"
+                },
+                {
+                    "name": "トレチノイン・ハイドロキノン療法",
+                    "price": "要問い合わせ",
+                    "notes": "シミ・美白外用薬",
+                    "url": "https://www.elm-clinic.jp/treatment/tretinoin_hydroquinone/"
+                },
+                {
+                    "name": "ハイドロキノン",
+                    "price": "要問い合わせ",
+                    "notes": "美白剤",
+                    "url": "https://www.elm-clinic.jp/treatment/hydroquinone/"
+                },
+                {
+                    "name": "トレチノイン",
+                    "price": "要問い合わせ",
+                    "notes": "肌のターンオーバー促進",
+                    "url": "https://www.elm-clinic.jp/treatment/tretinoin/"
+                },
+                {
+                    "name": "美容漢方薬",
+                    "price": "要問い合わせ",
+                    "notes": "ニキビ・ダイエット・女性漢方",
+                    "url": "https://www.elm-clinic.jp/treatment/herb_medicine/"
+                },
+                {
+                    "name": "ダイエットピル (サノレックス)",
+                    "price": "要問い合わせ",
+                    "notes": "食欲抑制剤",
+                    "url": "https://www.elm-clinic.jp/treatment/diet_pill/"
+                },
+                {
+                    "name": "ローマピンク (Roma Pink)",
+                    "price": "要問い合わせ",
+                    "notes": "デリケートゾーン等の美白ピーリング",
+                    "url": "https://www.elm-clinic.jp/treatment/roma-pink/"
+                },
+                {
+                    "name": "At. (ドクターズコスメ)",
+                    "price": "製品別",
+                    "notes": "エルムクリニックオリジナル化粧品",
+                    "url": "https://www.elm-clinic.jp/treatment/cosmetics_at/"
                 },
                 {
                     "name": "ゼオスキン (ZO Skin Health)",
