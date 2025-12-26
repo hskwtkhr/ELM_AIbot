@@ -1,167 +1,445 @@
 {
     "treatments": [
         {
-            "category": "医療アートメイク",
-            "description": "医師の管理下で行う、立体的で自然な仕上がりの医療アートメイク。2D、3D、4D技術を組み合わせたオーダーメイドデザイン。",
-            "url": "https://www.elm-clinic.jp/treatment/medicalartmake/",
+            "category": "注入施術 (シワ・たるみ・肌質改善)",
+            "description": "ヒアルロン酸やボトックス、最新の肌育注射（スキンブースター）など。",
+            "url": "https://www.elm-clinic.jp/menu/",
             "menu": [
                 {
-                    "name": "眉アートメイク (2回セット)",
-                    "price": "98,000円〜",
-                    "notes": "毛並みを1本1本描く4D技法などが人気"
-                },
-                {
-                    "name": "リップアートメイク (2回セット)",
-                    "price": "110,000円〜",
-                    "notes": "血色を良くし、メイクの手間を省きます"
-                },
-                {
-                    "name": "アイライン (2回セット)",
-                    "price": "60,000円〜",
-                    "notes": "目力を自然にアップ"
-                }
-            ]
-        },
-        {
-            "category": "ボトックス注射",
-            "description": "表情ジワを目立たなくする治療。アラガン社製ボトックスビスタを使用。",
-            "url": "https://www.elm-clinic.jp/treatment/botox/",
-            "menu": [
-                {
-                    "name": "眉間・目尻・額 (1箇所)",
+                    "name": "ボトックス注射",
                     "price": "19,800円〜",
-                    "notes": "表情を作った時にできるシワに効果的"
+                    "notes": "表情ジワ、エラ、ワキなど",
+                    "url": "https://www.elm-clinic.jp/treatment/botox/"
                 },
                 {
-                    "name": "エラボトックス (小顔)",
-                    "price": "49,800円〜",
-                    "notes": "エラの筋肉を緩めて小顔効果"
-                },
-                {
-                    "name": "脇ボトックス (多汗症)",
-                    "price": "59,800円〜",
-                    "notes": "脇汗を抑える"
-                }
-            ]
-        },
-        {
-            "category": "ヒアルロン酸注射",
-            "description": "シワの溝を埋めたり、ボリュームを出してリフトアップする治療。",
-            "url": "https://www.elm-clinic.jp/treatment/hyaluron/",
-            "menu": [
-                {
-                    "name": "ほうれい線・マリオネットライン",
-                    "price": "1本 69,800円〜",
-                    "notes": "即効性があり、ダウンタイムが少ない"
-                },
-                {
-                    "name": "涙袋形成",
+                    "name": "ヒアルロン酸注射",
                     "price": "39,800円〜",
-                    "notes": "ふっくらとした目元に"
+                    "notes": "シワ、リフトアップ、涙袋など",
+                    "url": "https://www.elm-clinic.jp/treatment/hyaluron/"
                 },
                 {
-                    "name": "ボライトXC (肌質改善)",
+                    "name": "ジュベルック (Juvelook)",
                     "price": "要問い合わせ",
-                    "notes": "肌の保水力を高める"
+                    "notes": "ニキビ跡、毛穴、肌質改善",
+                    "url": "https://www.elm-clinic.jp/treatment/juvelook/"
+                },
+                {
+                    "name": "レニスナ (Lenisna)",
+                    "price": "要問い合わせ",
+                    "notes": "ボリュームアップ、深いシワ",
+                    "url": "https://www.elm-clinic.jp/treatment/lenisna/"
+                },
+                {
+                    "name": "スネコス注射 (SUNEKOS)",
+                    "price": "要問い合わせ",
+                    "notes": "目周りの小ジワ、クマ",
+                    "url": "https://www.elm-clinic.jp/treatment/sunekos/"
+                },
+                {
+                    "name": "プロファイロ (PROFHILO)",
+                    "price": "要問い合わせ",
+                    "notes": "顔全体の若返り、リフトアップ",
+                    "url": "https://www.elm-clinic.jp/treatment/profhilo/"
+                },
+                {
+                    "name": "リジュラン (REJURAN)",
+                    "price": "要問い合わせ",
+                    "notes": "サケ注射、肌再生",
+                    "url": "https://www.elm-clinic.jp/treatment/rejuran/"
+                },
+                {
+                    "name": "リズネ (LIZNE)",
+                    "price": "要問い合わせ",
+                    "notes": "リジュランの進化版",
+                    "url": "https://www.elm-clinic.jp/treatment/lizne/"
+                },
+                {
+                    "name": "ジャルプロ (JALUPRO)",
+                    "price": "要問い合わせ",
+                    "notes": "肌育、ハリ・ツヤ",
+                    "url": "https://www.elm-clinic.jp/treatment/jalupro/"
+                },
+                {
+                    "name": "ベビーコラーゲン",
+                    "price": "要問い合わせ",
+                    "notes": "目の下のクマ、細かいシワ",
+                    "url": "https://www.elm-clinic.jp/treatment/baby_collagen/"
+                },
+                {
+                    "name": "ボライトXC",
+                    "price": "要問い合わせ",
+                    "notes": "肌の保水力向上",
+                    "url": "https://www.elm-clinic.jp/treatment/hyaluron_jv_volite_xc/"
+                },
+                {
+                    "name": "サブシジョン",
+                    "price": "要問い合わせ",
+                    "notes": "クレーター状のニキビ跡治療",
+                    "url": "https://www.elm-clinic.jp/treatment/subscision/"
+                },
+                {
+                    "name": "美脚コンバイン",
+                    "price": "要問い合わせ",
+                    "notes": "脚痩せ注射",
+                    "url": "https://www.elm-clinic.jp/treatment/combineinjection/"
                 }
             ]
         },
         {
-            "category": "糸リフト (スレッドリフト)",
-            "description": "特殊な糸を使用してたるみを引き上げる、切らないリフトアップ。",
+            "category": "糸施術 (スレッドリフト)",
+            "description": "切らないリフトアップ。たるみ引き上げ。",
             "url": "https://www.elm-clinic.jp/treatment/thread_lift/",
             "menu": [
                 {
-                    "name": "エルムリフト (1本)",
-                    "price": "29,800円〜",
-                    "notes": "本数によって引き上げ強度が変わります（目安4〜10本）"
+                    "name": "エルムリフト",
+                    "price": "29,800円〜/本",
+                    "notes": "基本の糸リフト",
+                    "url": "https://www.elm-clinic.jp/treatment/thread_lift/elm_lift/"
+                },
+                {
+                    "name": "鼻糸リフト (クレオパトラノーズ)",
+                    "price": "要問い合わせ",
+                    "notes": "鼻を高くする、形を整える",
+                    "url": "https://www.elm-clinic.jp/treatment/thread_lift/cleopatra-nose/"
+                },
+                {
+                    "name": "アイスレッド",
+                    "price": "要問い合わせ",
+                    "notes": "目元のたるみ・シワ",
+                    "url": "https://www.elm-clinic.jp/treatment/thread_lift/eyethread/"
+                },
+                {
+                    "name": "リードファインリフト",
+                    "price": "要問い合わせ",
+                    "notes": "肌のハリ、引き締め",
+                    "url": "https://www.elm-clinic.jp/treatment/thread_lift/leadfinelift/"
+                },
+                {
+                    "name": "エルムVリフト",
+                    "price": "要問い合わせ",
+                    "notes": "あご下のたるみ専用",
+                    "url": "https://www.elm-clinic.jp/treatment/thread_lift/v-shape/"
                 }
             ]
         },
         {
-            "category": "医療HIFU (ハイフ)",
-            "description": "超音波の熱エネルギーで肌の奥から引き締める、切らないリフトアップ治療。",
+            "category": "医療HIFU・高周波治療",
+            "description": "切らないリフトアップ、余分な脂肪の除去。",
             "url": "https://www.elm-clinic.jp/treatment/ultra_cel_qplus/",
             "menu": [
                 {
-                    "name": "ウルトラセルQプラス (全顔)",
+                    "name": "ウルトラセルQプラス (HIFU)",
                     "price": "要問い合わせ",
-                    "notes": "痛みやダウンタイムが少ない最新HIFU"
+                    "notes": "痛み少ない、リフトアップ",
+                    "url": "https://www.elm-clinic.jp/treatment/ultra_cel_qplus/"
                 },
                 {
-                    "name": "リニアファーム (二重アゴ解消)",
+                    "name": "リニアファーム",
                     "price": "要問い合わせ",
-                    "notes": "脂肪溶解に特化したHIFU"
+                    "notes": "二重アゴ、脂肪溶解HIFU",
+                    "url": "https://www.elm-clinic.jp/treatment/linear_firm/"
+                },
+                {
+                    "name": "ザーフ (XERF)",
+                    "price": "要問い合わせ",
+                    "notes": "次世代高周波治療",
+                    "url": "https://www.elm-clinic.jp/treatment/xerf/"
+                },
+                {
+                    "name": "エクリリス (Eclairis)",
+                    "price": "要問い合わせ",
+                    "notes": "美肌＋タイトニング",
+                    "url": "https://www.elm-clinic.jp/treatment/eclairis/"
                 }
             ]
         },
         {
-            "category": "肌治療 (シミ・くすみ・毛穴)",
-            "description": "レーザーや光治療を用いた肌質改善メニュー。",
+            "category": "レーザー・光治療 (シミ・毛穴)",
+            "description": "シミ、そばかす、赤ら顔、毛穴の開きに。",
+            "url": "https://www.elm-clinic.jp/treatment/photofacial/",
             "menu": [
                 {
                     "name": "フォトフェイシャルM22",
-                    "price": "1回 15,800円〜",
-                    "notes": "シミ、そばかす、赤ら顔に効果的",
+                    "price": "15,800円〜",
+                    "notes": "シミ・そばかす・赤ら顔",
                     "url": "https://www.elm-clinic.jp/treatment/photofacial/"
                 },
                 {
-                    "name": "ピコレーザー (シミ取り放題)",
-                    "price": "98,000円〜",
-                    "notes": "個数制限なしでシミを除去（詳細は各院へ）",
+                    "name": "ピコレーザー",
+                    "price": "要問い合わせ",
+                    "notes": "シミ取り放題、トーニング",
                     "url": "https://www.elm-clinic.jp/treatment/picolaser/"
                 },
                 {
+                    "name": "ジェネシス",
+                    "price": "要問い合わせ",
+                    "notes": "毛穴の引き締め、赤ら顔",
+                    "url": "https://www.elm-clinic.jp/treatment/genesis/"
+                },
+                {
+                    "name": "Qスイッチルビーレーザー",
+                    "price": "要問い合わせ",
+                    "notes": "濃いシミ、アザ",
+                    "url": "https://www.elm-clinic.jp/treatment/qswitchlaser/"
+                },
+                {
+                    "name": "エッジワン (CO2)",
+                    "price": "要問い合わせ",
+                    "notes": "ほくろ・イボ除去",
+                    "url": "https://www.elm-clinic.jp/treatment/edge_one/"
+                },
+                {
+                    "name": "アキュティップ",
+                    "price": "要問い合わせ",
+                    "notes": "薄いシミ、そばかす",
+                    "url": "https://www.elm-clinic.jp/treatment/acutip/"
+                }
+            ]
+        },
+        {
+            "category": "導入治療・ニキビ治療",
+            "description": "肌の奥に有効成分を届ける、肌再生を促す。",
+            "url": "https://www.elm-clinic.jp/treatment/potenza/",
+            "menu": [
+                {
                     "name": "ポテンツァ (POTENZA)",
                     "price": "要問い合わせ",
-                    "notes": "ニキビ跡、毛穴、肝斑など幅広い悩みに対応",
+                    "notes": "ニキビ跡、肝斑、毛穴、たるみ",
                     "url": "https://www.elm-clinic.jp/treatment/potenza/"
                 },
                 {
+                    "name": "ダーマペン4",
+                    "price": "要問い合わせ",
+                    "notes": "ニキビ跡、毛穴",
+                    "url": "https://www.elm-clinic.jp/treatment/dermapen4/"
+                },
+                {
                     "name": "ハイドラフェイシャル",
-                    "price": "1回 14,800円〜",
-                    "notes": "毛穴の汚れを徹底洗浄",
+                    "price": "14,800円〜",
+                    "notes": "毛穴洗浄、ピーリング",
                     "url": "https://www.elm-clinic.jp/treatment/hydrafacial/"
+                },
+                {
+                    "name": "ハイドラジェントル",
+                    "price": "要問い合わせ",
+                    "notes": "日本版ハイドラフェイシャル",
+                    "url": "https://www.elm-clinic.jp/treatment/hydragentle/"
+                },
+                {
+                    "name": "エレクトロポレーション",
+                    "price": "要問い合わせ",
+                    "notes": "クールダーム、イオン導入",
+                    "url": "https://www.elm-clinic.jp/treatment/coolderm/"
+                },
+                {
+                    "name": "プレミアム水光注射",
+                    "price": "要問い合わせ",
+                    "notes": "煌めくツヤ肌へ",
+                    "url": "https://www.elm-clinic.jp/treatment/premiumwaterinjection/"
                 }
             ]
         },
         {
-            "category": "医療脱毛",
-            "description": "医療機関でのみ可能な高出力レーザー脱毛。",
+            "category": "ピーリング",
+            "description": "古い角質を除去し、ターンオーバーを正常化。",
+            "url": "https://www.elm-clinic.jp/treatment/chemicalpeeling/",
+            "menu": [
+                {
+                    "name": "マッサージピール (PRX-T33)",
+                    "price": "要問い合わせ",
+                    "notes": "コラーゲン生成促進",
+                    "url": "https://www.elm-clinic.jp/treatment/massage_peel/"
+                },
+                {
+                    "name": "ミラノリピール",
+                    "price": "要問い合わせ",
+                    "notes": "ボディにも使えるピーリング",
+                    "url": "https://www.elm-clinic.jp/treatment/milano-repeel/"
+                },
+                {
+                    "name": "ララドクター (ララピール)",
+                    "price": "要問い合わせ",
+                    "notes": "低刺激な次世代ピーリング",
+                    "url": "https://www.elm-clinic.jp/treatment/lhala-doctor/"
+                },
+                {
+                    "name": "リバースピール",
+                    "price": "要問い合わせ",
+                    "notes": "肝斑・色素沈着に",
+                    "url": "https://www.elm-clinic.jp/treatment/reverse-peel/"
+                },
+                {
+                    "name": "ケミカルピーリング",
+                    "price": "要問い合わせ",
+                    "notes": "サリチル酸、グリコール酸",
+                    "url": "https://www.elm-clinic.jp/treatment/chemicalpeeling/"
+                }
+            ]
+        },
+        {
+            "category": "医療ダイエット・部分痩せ",
+            "description": "医療の力で細胞レベルから脂肪を減らす。",
+            "url": "https://www.elm-clinic.jp/treatment/medicine_body/",
+            "menu": [
+                {
+                    "name": "FatX Core (脂肪溶解注射)",
+                    "price": "要問い合わせ",
+                    "notes": "脂肪細胞を破壊・排出",
+                    "url": "https://www.elm-clinic.jp/treatment/fatx-core/"
+                },
+                {
+                    "name": "カベルライン (脂肪溶解注射)",
+                    "price": "要問い合わせ",
+                    "notes": "腫れの少ない脂肪溶解注射",
+                    "url": "https://www.elm-clinic.jp/treatment/kabelline/"
+                },
+                {
+                    "name": "クラツーアルファ",
+                    "price": "要問い合わせ",
+                    "notes": "脂肪冷却痩身",
+                    "url": "https://www.elm-clinic.jp/treatment/clatuu-a/"
+                },
+                {
+                    "name": "ビジリス",
+                    "price": "要問い合わせ",
+                    "notes": "骨盤底筋トレーニング",
+                    "url": "https://www.elm-clinic.jp/treatment/bijiris/"
+                },
+                {
+                    "name": "ダイエット内服薬",
+                    "price": "要問い合わせ",
+                    "notes": "リベルサス、サノレックス等",
+                    "url": "https://www.elm-clinic.jp/treatment/medicine_body/"
+                }
+            ]
+        },
+        {
+            "category": "アートメイク",
+            "description": "水や汗でも落ちないメイク。",
+            "url": "https://www.elm-clinic.jp/treatment/medicalartmake/",
+            "menu": [
+                {
+                    "name": "医療アートメイク (眉・リップ・アイライン)",
+                    "price": "要問い合わせ",
+                    "notes": "2D/3D/4D技術",
+                    "url": "https://www.elm-clinic.jp/treatment/medicalartmake/"
+                },
+                {
+                    "name": "SKIN52",
+                    "price": "要問い合わせ",
+                    "notes": "妊娠線・傷跡修正アートメイク",
+                    "url": "https://www.elm-clinic.jp/treatment/skin52/"
+                },
+                {
+                    "name": "SMP (頭皮アートメイク)",
+                    "price": "要問い合わせ",
+                    "notes": "薄毛カバー",
+                    "url": "https://www.elm-clinic.jp/treatment/scalp_micro_pigmentation/"
+                }
+            ]
+        },
+        {
+            "category": "脱毛・発毛",
+            "description": "医療脱毛と薄毛治療。",
             "url": "https://www.elm-clinic.jp/treatment/datsumo/",
             "menu": [
                 {
-                    "name": "全身脱毛 (顔・VIOなし・5回)",
+                    "name": "医療レーザー脱毛",
                     "price": "要問い合わせ",
-                    "notes": "まずは無料カウンセリングへ"
+                    "notes": "ジェントルマックスPro等",
+                    "url": "https://www.elm-clinic.jp/treatment/datsumo/"
                 },
                 {
-                    "name": "ワキ脱毛 (1回)",
-                    "price": "500円〜 (キャンペーン時)",
-                    "notes": "キャンペーン等は時期によります"
+                    "name": "メンズ脱毛",
+                    "price": "要問い合わせ",
+                    "notes": "ヒゲ脱毛など",
+                    "url": "https://www.elm-clinic.jp/treatment/datsumo/"
+                },
+                {
+                    "name": "AGA治療 (男性)",
+                    "price": "要問い合わせ",
+                    "notes": "内服薬、外用薬",
+                    "url": "https://www.elm-clinic.jp/formen/aga/"
+                },
+                {
+                    "name": "FAGA治療 (女性)",
+                    "price": "要問い合わせ",
+                    "notes": "薄毛治療、育毛注射",
+                    "url": "https://www.elm-clinic.jp/treatment/hair-growth-injection/"
+                },
+                {
+                    "name": "グラッシュビスタ",
+                    "price": "要問い合わせ",
+                    "notes": "まつ毛育毛剤",
+                    "url": "https://www.elm-clinic.jp/treatment/glashvista/"
                 }
             ]
         },
         {
-            "category": "その他",
-            "description": "点滴療法や内服薬、ドクターズコスメなど。",
+            "category": "点滴・注射・内服薬",
+            "description": "体の内側から美しくなる。",
+            "url": "https://www.elm-clinic.jp/treatment/injection/",
             "menu": [
                 {
-                    "name": "白玉点滴 (グルタチオン)",
-                    "price": "5,500円〜",
-                    "notes": "美白、抗酸化作用",
+                    "name": "白玉点滴",
+                    "price": "要問い合わせ",
+                    "notes": "美白、グルタチオン",
                     "url": "https://www.elm-clinic.jp/treatment/shiratama_injection/"
                 },
                 {
-                    "name": "ゼオスキン (ZO Skin Health)",
-                    "price": "製品により異なる",
-                    "notes": "医師の指導の下で使用する医療機関専売コスメ",
+                    "name": "高濃度ビタミンC点滴",
+                    "price": "要問い合わせ",
+                    "notes": "美肌、免疫力アップ",
+                    "url": "https://www.elm-clinic.jp/treatment/deepvitamin/"
+                },
+                {
+                    "name": "NMN点滴",
+                    "price": "要問い合わせ",
+                    "notes": "若返り、エイジングケア",
+                    "url": "https://www.elm-clinic.jp/treatment/nmn_injection/"
+                },
+                {
+                    "name": "幹細胞培養上清液",
+                    "price": "要問い合わせ",
+                    "notes": "エクソソーム、組織再生",
+                    "url": "https://www.elm-clinic.jp/treatment/stem-cell-detox-concentration/"
+                },
+                {
+                    "name": "プラセンタ注射",
+                    "price": "要問い合わせ",
+                    "notes": "美肌、肩こり",
+                    "url": "https://www.elm-clinic.jp/treatment/face_placenta/"
+                },
+                {
+                    "name": "イソトレチノイン",
+                    "price": "要問い合わせ",
+                    "notes": "重症ニキビ治療薬",
+                    "url": "https://www.elm-clinic.jp/treatment/isotretinoin/"
+                }
+            ]
+        },
+        {
+            "category": "その他・ドクターズコスメ",
+            "description": "ピアスやホームケア用品。",
+            "url": "https://www.elm-clinic.jp/",
+            "menu": [
+                {
+                    "name": "ゼオスキン (ZO SKIN)",
+                    "price": "製品別",
+                    "notes": "医療機関専売コスメ",
                     "url": "https://www.elm-clinic.jp/treatment/zoskin/"
                 },
                 {
-                    "name": "美容内服セット",
-                    "price": "4,400円〜",
-                    "notes": "シナール、トラネキサム酸などのセット"
+                    "name": "ピアス穴あけ",
+                    "price": "要問い合わせ",
+                    "notes": "耳たぶ、軟骨など",
+                    "url": "https://www.elm-clinic.jp/treatment/piercing/"
+                },
+                {
+                    "name": "メディカルブライダルエステ",
+                    "price": "要問い合わせ",
+                    "notes": "挙式に向けた集中ケア",
+                    "url": "https://www.elm-clinic.jp/treatment/bridalesthetic/"
                 }
             ]
         }
