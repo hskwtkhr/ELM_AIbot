@@ -94,7 +94,7 @@ export default function ChatWindow({ onClose }: { onClose: () => void }) {
                     <Bot size={20} className="text-elm-gold" />
                 </div>
                 <div>
-                    <h3 className="text-sm font-bold tracking-wide">AI Concierge</h3>
+                    <h3 className="text-sm font-bold tracking-wide">AIコンシェルジュ</h3>
                     <p className="text-xs text-white/70">24時間対応中</p>
                 </div>
             </div>
@@ -154,7 +154,7 @@ export default function ChatWindow({ onClose }: { onClose: () => void }) {
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
                     placeholder="お悩みやご質問を入力..."
-                    className="flex-1 bg-gray-50 border border-gray-200 rounded-full px-4 py-2.5 text-sm focus:outline-none focus:ring-1 focus:ring-elm-gold/50 focus:border-elm-gold/50 transition-all placeholder:text-gray-400"
+                    className="flex-1 bg-gray-50 border border-gray-200 rounded-full px-4 py-2.5 text-[16px] focus:outline-none focus:ring-1 focus:ring-elm-gold/50 focus:border-elm-gold/50 transition-all placeholder:text-gray-400"
                 />
                 <button
                     type="submit"
