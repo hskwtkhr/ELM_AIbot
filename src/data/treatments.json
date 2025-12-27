@@ -332,69 +332,83 @@
             ]
         }
     ],
+    "board_chairman": {
+        "name": "相原 一仁",
+        "title": "医療法人ELM 理事長",
+        "profile": "2008年広島大学医学部卒。2011年エルムクリニック広島院開院。日本美容皮膚科学会会員、ジュビダームビスタ認定医。"
+    },
     "clinics": [
         {
             "name": "表参道院",
             "url": "https://www.elm-clinic.jp/clinic/omotesando.html",
             "address": "〒107-0062 東京都港区南青山5丁目8-1 scène akira 2F",
             "tel": "03-5962-6095",
-            "hours": "9:30～18:30 (定休日: 不定休・公式要確認)"
+            "hours": "9:30～18:30 (定休日: 不定休・公式要確認)",
+            "doctor": "院長 土井 優佳"
         },
         {
             "name": "麻布院",
             "url": "https://www.elm-clinic.jp/clinic/azabu.html",
             "address": "〒106-0045 東京都港区麻布十番1丁目9-7 麻布Kfビル 4F",
             "tel": "03-6807-4171",
-            "hours": "平日 10:00～19:00 / 土日祝 9:30～18:30 (定休日: 火・水)"
+            "hours": "平日 10:00～19:00 / 土日祝 9:30～18:30 (定休日: 火・水)",
+            "doctor": "院長 横山 歩依里"
         },
         {
             "name": "京都院",
             "url": "https://www.elm-clinic.jp/clinic/kyoto.html",
             "address": "〒600-8031 京都府京都市下京区寺町通四条下る貞安前之町594 岡本鏡店ビル4階",
             "tel": "075-353-1854",
-            "hours": "10:00～19:00 (定休日: 不定休)"
+            "hours": "10:00～19:00 (定休日: 不定休)",
+            "doctor": "院長 内山 雄一朗"
         },
         {
             "name": "大阪院",
             "url": "https://www.elm-clinic.jp/clinic/osaka.html",
             "address": "〒530-0001 大阪府大阪市北区梅田1丁目11-4 大阪駅前第4ビル 2階",
             "tel": "06-6147-6761",
-            "hours": "月・木 11:00～20:00 / その他 10:00～19:00 (定休日: 不定休)"
+            "hours": "月・木 11:00～20:00 / その他 10:00～19:00 (定休日: 不定休)",
+            "doctor": "院長 佐藤 央規"
         },
         {
             "name": "神戸院",
             "url": "https://www.elm-clinic.jp/clinic/kobe.html",
             "address": "〒650-0011 兵庫県神戸市中央区下山手通3丁目1-21 東栄ビル4F",
             "tel": "078-335-6025",
-            "hours": "9:00～18:00 (定休日: 日・月)"
+            "hours": "9:00～18:00 (定休日: 日・月)",
+            "doctor": "院長 七里 阿寿美"
         },
         {
             "name": "広島院",
             "url": "https://www.elm-clinic.jp/clinic/hiroshima.html",
             "address": "〒730-0051 広島県広島市中区大手町1丁目4-14 上田ビル5F",
             "tel": "082-246-2406",
-            "hours": "9:00～18:00 (定休日: 日曜日)"
+            "hours": "9:00～18:00 (定休日: 日曜日)",
+            "doctor": "院長 松本 友梨"
         },
         {
             "name": "岡山院",
             "url": "https://www.elm-clinic.jp/clinic/okayama.html",
             "address": "〒700-0903 岡山県岡山市北区幸町7-20 アクタスビル地下1階",
             "tel": "086-222-8772",
-            "hours": "9:00～18:00 (定休日: 日曜日)"
+            "hours": "9:00～18:00 (定休日: 日曜日)",
+            "doctor": "院長 高橋 徹"
         },
         {
             "name": "福岡院",
             "url": "https://www.elm-clinic.jp/clinic/fukuoka.html",
             "address": "〒810-0041 福岡県福岡市中央区大名2丁目2-7 大名センタービル3階",
             "tel": "092-717-7227",
-            "hours": "10:00～19:00 (定休日: 不定休)"
+            "hours": "10:00～19:00 (定休日: 不定休)",
+            "doctor": "院長 菊池 寛"
         },
         {
             "name": "熊本院",
             "url": "https://www.elm-clinic.jp/clinic/kumamoto.html",
             "address": "〒860-0845 熊本県熊本市中央区上通町6-15 オークス第二ビル 3F",
             "tel": "096-277-1950",
-            "hours": "9:00～18:00 (定休日: 不定休)"
+            "hours": "9:00～18:00 (定休日: 不定休)",
+            "doctor": "院長 渕野 悟史"
         }
     ]
 }
